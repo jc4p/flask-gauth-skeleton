@@ -1,6 +1,6 @@
 # flask-gauth-skeleton
 
-A simple starting point for Flask apps that require Google authentication.
+A simple starting point for Flask apps that want Google authentication.
 
 ## Getting Started
 
